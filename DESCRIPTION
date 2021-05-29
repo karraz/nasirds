@@ -1,0 +1,11 @@
+Package: nasirds
+Type: Package
+Title: Provides descriptive statistics
+Version: 0.1.0
+Author: Mohammad Nasir Abdullah
+Maintainer: The package maintainer <mna.nasir@gmail.com>
+Description: It creates the numerical descriptive statistics with histogram and boxplot.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
